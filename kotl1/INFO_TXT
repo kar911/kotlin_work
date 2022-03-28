@@ -1,0 +1,8 @@
+'OPEN' is for make the class to overrride
+as default the classes are private in nature
+
+'OBJECT' is to define the singleton OR static class object (only one)
+can have constructor as its a static class
+
+'COMPANION OBJECT' are the keyword for the declratin for static variable and function for a class
+hence there is no name associated with it
